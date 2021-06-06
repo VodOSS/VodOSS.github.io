@@ -30,6 +30,11 @@ p {
 font-family: verdana;
 }
 
+p:hover {
+background-color: #000000
+  color: white;
+}
+
 .footer {
   background-color: #f1f1f1;
   padding: 10px;
@@ -38,7 +43,6 @@ font-family: verdana;
 
 #corndog {
 border: 10px solid #000000;
-  margin: 100px;
   padding: 10px;
 }
 
