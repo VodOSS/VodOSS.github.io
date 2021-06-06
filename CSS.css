@@ -5,12 +5,14 @@ background-color: ##bfbfbf;
   font-family: verdana;
 text-align: center;
   padding:20px;
-  border: 0px solid #FFFFFF
+  border: 0px solid #FFFFFF;
   background-color: #f1f1f1
 }
 
 .topnav {
   overflow: hidden;
+  border: 0px solid #FFFFFF;
+  padding: 50px;
   background-color: #333;
 }
 
