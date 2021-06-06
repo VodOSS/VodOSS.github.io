@@ -36,4 +36,9 @@ font-family: verdana;
   text-align: center;
 }
 
+#corndog {
+border: 10px solid #000000;
+  padding: 10px;
+}
+
 
