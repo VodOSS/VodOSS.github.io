@@ -26,11 +26,11 @@ text-align: center;
   background-color: #ddd;
   color: black;
 }
-p {
+p a{
 font-family: verdana;
 }
 
-p:hover {
+p a:hover {
 background-color: #000000
   color: white;
 }
