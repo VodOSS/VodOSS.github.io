@@ -4,6 +4,8 @@ background-color: ##bfbfbf;
 #head {
   font-family: verdana;
 text-align: center;
+  padding:20px;
+  border: 0px solid #FFFFFF
   background-color: #f1f1f1
 }
 
