@@ -7,7 +7,7 @@ text-align: center;
   padding:20px;
   border: 0px solid #FFFFFF;
   background-color: #f1f1f1
-    animation-name: headanimation;
+  animation-name: headanimation;
   animation-duration: 4s;
 }
 
