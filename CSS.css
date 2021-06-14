@@ -12,8 +12,8 @@ text-align: center;
 }
 
 @keyframes headanimation {
-  from {padding: 20px}
-  to {padding: 30px}
+  from {background-color: #f1f1f1;}
+  to {background-color: #FFFFFF}
 }
 
 .topnav {
