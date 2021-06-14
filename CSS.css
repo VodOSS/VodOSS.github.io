@@ -7,6 +7,14 @@ text-align: center;
   padding:20px;
   border: 0px solid #FFFFFF;
   background-color: #f1f1f1
+    animation-name: headanimation;
+  animation-duration: 4s;
+}
+
+@keyframes headanimation {
+  from {background-color: #f1f1f1}
+  to {background-color: #f2f2f2}
+  to {background-color: #f1f1f1}
 }
 
 .topnav {
@@ -41,9 +49,5 @@ background-color: #000000
   text-align: center;
 }
 
-#corndog {
-border: 10px solid #000000;
-  padding: 10px;
-}
 
 
