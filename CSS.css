@@ -1,3 +1,11 @@
+@keyframes anim {
+  from {
+  padding: 20px;
+  }
+  to {
+  padding: 35px;
+  }
+}
 
 #head {
   font-family: verdana;
@@ -6,21 +14,9 @@ text-align: center;
   left: 0px;
   border: 0px solid #FFFFFF;
   background-color: #f1f1f1
-  animation: anim 5s;
+  animation: anim 4s;
   animation-iteration-count: infinite;
 
-}
-
-@keyframes anim {
-  from {
-  left: 0px;
-  }
-  25% {
-  left: 5px;
-  }
-  to {
-  left: 10px;
-  }
 }
 
 .topnav {
