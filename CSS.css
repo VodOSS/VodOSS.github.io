@@ -6,7 +6,8 @@ text-align: center;
   left: 0px;
   border: 0px solid #FFFFFF;
   background-color: #f1f1f1
-  animation: anim, 5s, linear, infinite;
+  animation: anim 5s;
+  animation-iteration-count: infinite;
 
 }
 
