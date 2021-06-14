@@ -7,13 +7,16 @@ text-align: center;
   padding:20px;
   border: 0px solid #FFFFFF;
   background-color: #f1f1f1
-  animation-name: headanimation;
-  animation-duration: 4s;
+  animation: headanimation, 5s, linear, infinite
+
 }
 
 @keyframes headanimation {
-  from {background-color: #f1f1f1;}
-  to {background-color: #FFFFFF}
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:200px; top:0px;}
+  50%  {background-color:blue; left:200px; top:200px;}
+  75%  {background-color:green; left:0px; top:200px;}
+  100% {background-color:red; left:0px; top:0px;}
 }
 
 .topnav {
