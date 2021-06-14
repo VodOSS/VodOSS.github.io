@@ -1,9 +1,7 @@
 @keyframes anim {
   from {
-  up: 0px;
   }
   to {
-  up: 10px;
   }
 }
 
