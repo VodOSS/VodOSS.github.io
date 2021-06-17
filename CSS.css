@@ -6,7 +6,7 @@
 }
 
 #head {
-  font-family: verdana;
+font-family: 'Nunito', sans-serif;
 text-align: center;
   padding:20px;
   up: 0px;
@@ -36,7 +36,7 @@ text-align: center;
   color: black;
 }
 p a{
-font-family: verdana;
+font-family: 'Nunito', sans-serif;
 }
 
 p a:hover {
@@ -45,6 +45,7 @@ background-color: #000000
 }
 
 .footer {
+  font-family: 'Nunito', sans-serif;
   background-color: #f1f1f1;
   padding: 10px;
   text-align: center;
